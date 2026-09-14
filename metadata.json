@@ -1,0 +1,6 @@
+{
+  "name": "Solomon Recycle AI",
+  "description": "AI-powered recycling, upcycling and waste reduction assistant designed specifically for the Solomon Islands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
